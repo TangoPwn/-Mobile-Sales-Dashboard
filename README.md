@@ -39,7 +39,7 @@ Power Query for data transformation
 📂 Files Included
 Mobile_Sales_Dashboard.pbix – Main Power BI file 
 
-Screenshot.png – Preview image of the dashboard
+See What the dashboard looks like-   https://github.com/TangoPwn/-Mobile-Sales-Dashboard/blob/main/Screenshot%202025-07-16%20222927.png
 
 README.md – Project documentation
 
