@@ -36,12 +36,15 @@ Power Query for data transformation
 
 📷 Preview
 
-📂 Files Included
-Mobile_Sales_Dashboard.pbix – Main Power BI file 
+Mobile_Sales_Dashboard.pbix – Main Power BI file (optional if uploaded)
 
-See What the dashboard looks like-   https://github.com/TangoPwn/-Mobile-Sales-Dashboard/blob/main/Screenshot%202025-07-16%20222927.png
+Screenshot.png – Preview image of the dashboard
 
 README.md – Project documentation
+
+How the dashboard Looks like-   <img width="1119" height="632" alt="Image" src="https://github.com/user-attachments/assets/3297112e-165d-4e48-b735-d16bc3ab593e" />
+
+
 
 📫 Let's Connect
 If you liked this project or want to collaborate on data-driven solutions, feel free to connect with me on LinkedIn!
